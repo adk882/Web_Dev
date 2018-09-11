@@ -1,0 +1,2 @@
+resolution=N/A
+volume=100
